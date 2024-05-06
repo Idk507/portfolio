@@ -14,8 +14,8 @@ const dataProjects = [
         • Verso do Card com informações sobre o DoWhile 2021; <br>
         • Versão Desktop e Mobile.`, 
         videoSrc: 'https://streamable.com/e/qceqn0',
-        linkedin: 'https://www.linkedin.com/feed/update/urn:li:activity:6858050562471145472/',
-        repository: 'https://github.com/rhuanbello/origin-nlw-heat',
+        linkedin: 'https://www.linkedin.com/in/dhanushkumar-r-datascience/',
+        repository: 'https://github.com/Idk507',
         site: 'https://dowhile2021-rhuanbello.vercel.app/'
 
     },
@@ -35,7 +35,7 @@ const dataProjects = [
         • Moment.js; <br>
         `, 
         videoSrc: 'https://streamable.com/e/usgia6',
-        linkedin: 'https://www.linkedin.com/feed/update/urn:li:activity:6862799471626059776/',
+        linkedin: 'https://www.linkedin.com/in/dhanushkumar-r-datascience/',
         repository: 'https://github.com/rhuanbello/dailyweather',
         site: 'https://dailyweather.vercel.app/'
 
@@ -50,7 +50,7 @@ const dataProjects = [
         • O tamanho da fonte do display se adapta conforme os números são adicionados; <br>
         • Responsivo para Mobile;`,
         videoSrc: 'https://streamable.com/e/65khi6',
-        linkedin: 'https://www.linkedin.com/posts/rhuanbello_clone-windows-calculator-activity-6854500487987904512-kwzK',
+        linkedin: https://www.linkedin.com/in/dhanushkumar-r-datascience/',
         repository: 'https://github.com/rhuanbello/clone-windowsCalculator',
         site: 'https://calculator-rhuanbello.vercel.app/'
 
